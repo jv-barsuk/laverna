@@ -38,7 +38,8 @@ To install, do the following:
 #### 1. Clone repository:
 
 ```bash
-$ git clone git@github.com:Laverna/laverna.git
+$ git clone https://github.com/Laverna/laverna.git
+cd laverna
 ```
 
 #### 2. Switch to stable version:
